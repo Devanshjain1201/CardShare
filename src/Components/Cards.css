@@ -1,0 +1,16 @@
+.image-div{
+    position: relative;
+    width: 100%;
+    max-width: 1080px;
+    margin: auto;
+    margin-bottom: 10PX;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 21px;
+}
+
+.card-images{
+    width: 32%;
+    border: 2px solid black;
+}
+
